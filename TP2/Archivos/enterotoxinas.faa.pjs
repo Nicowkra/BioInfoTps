@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "enterotoxinas.faa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "enterotoxinas.faa",
+  "number-of-letters": 9880,
+  "number-of-sequences": 40,
+  "last-updated": "2026-05-14T00:45:00",
+  "number-of-volumes": 1,
+  "bytes-total": 161744,
+  "bytes-to-cache": 10353,
+  "files": [
+    "enterotoxinas.faa.pdb",
+    "enterotoxinas.faa.phr",
+    "enterotoxinas.faa.pin",
+    "enterotoxinas.faa.pot",
+    "enterotoxinas.faa.psq",
+    "enterotoxinas.faa.ptf",
+    "enterotoxinas.faa.pto"
+  ]
+}
